@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+# Introduction
 
-You can use the [editor on GitHub](https://github.com/momentis-ngs/docs/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+trenza.bi is a complete set of robust, ERP dashboards that present information in easy-to-digest nuggets to monitor your information anywhere and anytime. The information presented covers all of the important parts of your business from high-level Executive dashboards to lower-level Sales, Inventory, and Product scorecards. Microsoft Power BI delivers the stunning front-end visuals to bring all of your relevant information to the surface allowing you to make better decisions and become more agile to changing market conditions. And, one of the most powerful features of trenza.bi is the natural language query that allows you to ask questions about the data and get instant results.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+trenza.bi includes the following:  
 
-### Markdown
+## Sales
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Sales Scorecard
 
-```markdown
-Syntax highlighted code block
+Analyze sales and sales forecast data across periods with extended drill downs.
 
-# Header 1
-## Header 2
-### Header 3
+### Sales Analysis
 
-- Bulleted
-- List
+Analyze sales this year compared to last year with extended drill downs.
 
-1. Numbered
-2. List
+### Product Scorecard
 
-**Bold** and _Italic_ and `Code` text
+Analyze product sales data across periods with extended drill downs.
 
-[Link](url) and ![Image](src)
-```
+## Inventory
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Inventory Management
 
-### Jekyll Themes
+Analyze Inventory position using different inventory calculations and filter by Division, Brand, Garment Type, Season, Warehouse.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/momentis-ngs/docs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Inventory On Hand
 
-### Support or Contact
+Analyze the aging of the on hand inventory using several filters.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Accounts Receivable
+
+Analyze the aging of accounts receivable by customer type.
+
+## Shipping Projection
+
+Analyze how actual shipping is trending against forecasted shipping for a given time.
+
+## Financials
+
+Analyze profit and loss at a given time.
+
+## Executive
+
+Provide a holistic view of the business with drill-downs into the above-mentioned dashboards.
+
+## Q&A
+
+Allows users the ability to enter queries in intuitive natural language and render the information in graphs and charts.

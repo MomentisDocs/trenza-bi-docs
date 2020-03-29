@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
 title: trenza.bi
+description: Business Intelligence by Momentis
 github:
   is_project_page: false

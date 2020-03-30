@@ -1,4 +1,4 @@
-![Image](assets/img/trenza-signature-icon-blue.png)
+![Image](assets/img/trenza-signature-icon-blue-512px.png)
 
 ## Overview
 

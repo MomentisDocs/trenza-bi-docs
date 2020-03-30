@@ -10,7 +10,7 @@ The Sales Scorecard can be broken down into the following sections:
 
 ![Image](../../assets/img/sales-sales-scorecard-slicers.png)
 
-* The slicers on the Sales Scorecard consist of the following: 
+* The slicers on the Sales Scorecard consist of the following:
   * Period (Multiple Selection): Year, Quarter, Month
     * Will filter the data to only show the period(s) selected
   * Country (Single Selection)
@@ -23,3 +23,28 @@ The Sales Scorecard can be broken down into the following sections:
      If selected, will filter the data to only show transactions related to those Order Categories
 
 > **Note**: If nothing is selected, the data on the screen will be converted to the Home Currency of the ERP.
+
+## Totals
+
+![Image](../../assets/img/sales-sales-scorecard-totals.png)
+
+* The totals sections on the Sales Scorecard consists of the following:
+
+  * Booked
+    * Dollars = Shipped Dollars + Balance to Ship Dollars
+    * Units = Shipped Units + Balance to Ship Units
+  * Shipped
+    * Dollars = Sum of Shipped Dollars on Invoices where AR Type Code = 01 (Invoices)
+    * Units = Sum of Shipped Units on Invoices where AR Type Code = 01 (Invoices)
+  * Balance to Ship
+    * Dollars = Sales Orders Dollars – Shipped Dollars
+    * Units = Sales Orders Units – Shipped Units
+  * Forecast
+    * Dollars = The Forecast Dollars manually entered or uploaded to the Sales Forecast screen in the Fashion Web App
+    * Units = The Forecast Units manually entered or uploaded to the Sales Forecast screen in the Fashion Web App
+  * Returned
+    * Dollars = Sum of all Invoice Dollars where AR Type = 02 (Credit Note)
+    * Units = Sum of all Invoice Units where AR Type = 02 (Credit Note)
+    * Returns is the net total of Credit Notes
+
+> **Note**: General Ledger transactions are not included in the Return calculation.

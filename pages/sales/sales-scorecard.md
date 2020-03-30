@@ -48,3 +48,9 @@ The Sales Scorecard can be broken down into the following sections:
     * Returns is the net total of Credit Notes
 
 > **Note**: General Ledger transactions are not included in the Return calculation.
+
+## Currency Label
+
+Indicates whether the data shown is in Home or Local Currency along with the exchange rate stored in the ERP.
+
+![Image](../../assets/img/sales-sales-scorecard-currency.png)

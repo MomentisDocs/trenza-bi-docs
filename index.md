@@ -14,7 +14,7 @@ Provide a holistic view of the business.
 
 ### Sales
 
-#### Sales Scorecard
+#### [Sales Scorecard](pages/sales/sales-scorecard.md)
 
 Analyze sales and sales forecast data across periods with extended drill downs.
 

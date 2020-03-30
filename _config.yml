@@ -2,7 +2,6 @@ theme: jekyll-theme-slate
 title: trenza.bi
 description: Business Intelligence by Momentis
 logo: /assets/img/trenza-signature-icon-blue.png
-site:
-  show_downloads: false
-  github:
-    is_project_page: false
+show_downloads: false
+github:
+  is_project_page: false

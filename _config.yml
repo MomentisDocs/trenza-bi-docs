@@ -1,6 +1,6 @@
-theme: jekyll-theme-minimal
-title: Business Intelligence
-description: powered by Momentis
+theme: jekyll-theme-slate
+title: trenza.bi
+description: Business Intelligence powered by Momentis
 logo: /assets/img/trenza-signature-icon-blue.png
 github:
   is_project_page: false

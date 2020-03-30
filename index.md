@@ -7,7 +7,7 @@
 
 **trenza.bi** includes the following dashboards and features.  
 
-### Executive
+### [Executive](pages/executive/executive.md)
 
 Provide a holistic view of the business.
 

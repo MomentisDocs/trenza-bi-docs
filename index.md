@@ -7,7 +7,7 @@
 
 **trenza.bi** includes the following dashboards and features.  
 
-### [Executive](pages/executive/executive.md)
+### [Executive](pages/executive.md)
 
 Provide a holistic view of the business.
 
@@ -15,7 +15,7 @@ Provide a holistic view of the business.
 
 ### Sales
 
-#### [Sales Scorecard](pages/sales/sales-scorecard.md)
+#### [Sales Scorecard](pages/sales-scorecard.md)
 
 Analyze sales and sales forecast data across periods with extended drill downs.
 

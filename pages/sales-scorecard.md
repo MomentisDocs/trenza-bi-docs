@@ -2,13 +2,13 @@
 
 The Sales Scorecard allows users the ability to analyze sales and sales forecast data across periods by Salesperson, Customer Type, Customer, and Season.
 
-![Image](../../assets/img/sales-sales-scorecard.png)
+![Image](../assets/img/sales-sales-scorecard.png)
 
 The Sales Scorecard can be broken down into the following sections:
 
 ## Slicers
 
-![Image](../../assets/img/sales-sales-scorecard-slicers.png)
+![Image](../assets/img/sales-sales-scorecard-slicers.png)
 
 * The slicers on the Sales Scorecard consist of the following:
   * Period (Multiple Selection): Year, Quarter, Month
@@ -26,7 +26,7 @@ The Sales Scorecard can be broken down into the following sections:
 
 ## Totals
 
-![Image](../../assets/img/sales-sales-scorecard-totals.png)
+![Image](../assets/img/sales-sales-scorecard-totals.png)
 
 * The totals sections on the Sales Scorecard consists of the following:
 
@@ -53,4 +53,4 @@ The Sales Scorecard can be broken down into the following sections:
 
 Indicates whether the data shown is in Home or Local Currency along with the exchange rate stored in the ERP.
 
-![Image](../../assets/img/sales-sales-scorecard-currency.png)
+![Image](../assets/img/sales-sales-scorecard-currency.png)

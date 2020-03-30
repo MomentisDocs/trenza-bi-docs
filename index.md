@@ -1,6 +1,4 @@
-# ![Image](assets/img/trenza-signature-icon-blue.png) 
-
-    Business Intelligence by Momentis 
+![Image](assets/img/trenza-signature-icon-blue.png)
 
 ## Overview
 

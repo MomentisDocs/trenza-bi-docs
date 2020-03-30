@@ -1,3 +1,4 @@
+<!-- markdownlint-disable MD041 -->
 ![Image](assets/img/trenza-signature-icon-blue-512px.png)
 
 ## Overview

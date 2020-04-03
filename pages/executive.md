@@ -44,3 +44,13 @@ The Executive dashboard can be broken down into the following sections:
 * % Cost / Sales = (TY Average Cost / TY Sales) * 100
 * TY Average Cost = sum of the average weighted style cost
 * TY Sales = sum of the sales
+
+## Sales
+
+Allows user to compare last year's sales with this year's sales by month by hovering over a specific point on the chart,
+
+![Image](../assets/img/executive-sales-ly-to-ty.gif)
+
+ or clicking on a point on the chart to focus the dashboard to that month,
+
+![Image](../assets/img/executive-sales-ly-to-ty-month-selected.gif)

@@ -9,7 +9,7 @@
 
 ### [Executive](pages/executive.md)
 
-Provide a holistic view of the business.
+Provides a holistic view of the business.
 
 ![Image](assets/img/executive.png)
 

@@ -34,3 +34,13 @@ The Executive dashboard can be broken down into the following sections:
   * Will filter the data to only show active seasons (from ERP / Fashion Web App)
 * Active Salespeople Only (Single Selection)
   * Will filter the data to only show active salespeople (from ERP / Fashion Web App)
+
+## Totals
+
+![Image](../assets/img/executive-totals-500px.png)
+
+"TY" stands for this year - current calendar year starting January.
+
+* % Cost / Sales = (TY Average Cost / TY Sales) * 100
+* TY Average Cost = sum of the average weighted style cost
+* TY Sales = sum of the sales

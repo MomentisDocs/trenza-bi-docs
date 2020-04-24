@@ -37,7 +37,7 @@ The Executive dashboard can be broken down into the following sections:
 
 ## Totals
 
-![Image](../assets/img/executive-totals-500px.png)
+![Image](../assets/img/executive-totals-500x90px.png)
 
 "TY" stands for this year - current calendar year starting January.
 
@@ -49,8 +49,8 @@ The Executive dashboard can be broken down into the following sections:
 
 Allows user to compare last year's sales with this year's sales by month by hovering over a specific point on the chart,
 
-![Image](../assets/img/executive-sales-ly-to-ty.gif)
+![Image](../assets/img/executive-sales-ly-to-ty-484x318px.gif)
 
  or clicking on a point on the chart to focus the dashboard to that month,
 
-![Image](../assets/img/executive-sales-ly-to-ty-month-selected.gif)
+![Image](../assets/img/executive-sales-ly-to-ty-month-selected-1554x516.gif)

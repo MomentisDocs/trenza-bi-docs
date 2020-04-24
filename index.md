@@ -69,4 +69,4 @@ Analyze how actual shipping is trending against forecasted shipping for a given 
 
 Allows users the ability to enter queries in intuitive natural language and render the information in graphs and charts.
 
-![Image](assets/img/qna-1588x882px.gif)
+![Image](assets/img/qna-2-1588x882px.gif)

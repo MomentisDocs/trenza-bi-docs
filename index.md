@@ -11,7 +11,7 @@
 
 Provides a holistic view of the business.
 
-![Image](assets/img/executive.png)
+![Image](assets/img/executive-1510x796px.gif)
 
 ### Sales
 

@@ -78,7 +78,7 @@ Allows users to hover to see the Total Booked $ by Season or select a season to 
 
 ![Image](../assets/img/sales-sales-scorecard-customer.png)
 
-The Customer Grid consists of the following: 
+The Customer Grid consists of the following:
 
 * Customer
 * Booked $ = Shipped Dollars + Balance to Ship Dollars

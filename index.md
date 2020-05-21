@@ -1,8 +1,6 @@
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD041 -->
 
-<link rel="shortcut icon" type="image/x-icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}" >
-
 <img src="assets/img/trenza-signature-icon-blue-1024px.png" width="512" height="114" />
 
 ## Overview

@@ -54,3 +54,15 @@ The Sales Scorecard can be broken down into the following sections:
 Indicates whether the data shown is in Home or Local Currency along with the exchange rate stored in the ERP.
 
 ![Image](../assets/img/sales-sales-scorecard-currency.png)
+
+## Salesperson Grid
+
+![Image](../assets/img/sales-sales-scorecard-salesperson.png)
+
+* The Salesperson grid consists of the following:
+  * Salesperson
+  * Booked $ = Shipped Dollars + Balance to Ship Dollars
+  * Booked Units = Shipped Units + Balance to Ship Units
+  * Shipped $ = Sum of Shipped Dollars on Invoices where AR Type Code = 01 (Invoices)
+  * Shipped Units = Sum of Shipped Units on Invoices where AR Type Code = 01 (Invoices)
+  * Forecast $ = The Forecast Dollars manually entered or uploaded to the Sales Forecast screen in Fashion Web App

@@ -59,10 +59,38 @@ Indicates whether the data shown is in Home or Local Currency along with the exc
 
 ![Image](../assets/img/sales-sales-scorecard-salesperson.png)
 
-* The Salesperson grid consists of the following:
-  * Salesperson
-  * Booked $ = Shipped Dollars + Balance to Ship Dollars
-  * Booked Units = Shipped Units + Balance to Ship Units
-  * Shipped $ = Sum of Shipped Dollars on Invoices where AR Type Code = 01 (Invoices)
-  * Shipped Units = Sum of Shipped Units on Invoices where AR Type Code = 01 (Invoices)
-  * Forecast $ = The Forecast Dollars manually entered or uploaded to the Sales Forecast screen in Fashion Web App
+The Salesperson grid consists of the following:
+
+* Salesperson
+* Booked $ = Shipped Dollars + Balance to Ship Dollars
+* Booked Units = Shipped Units + Balance to Ship Units
+* Shipped $ = Sum of Shipped Dollars on Invoices where AR Type Code = 01 (Invoices)
+* Shipped Units = Sum of Shipped Units on Invoices where AR Type Code = 01 (Invoices)
+* Forecast $ = The Forecast Dollars manually entered or uploaded to the Sales Forecast screen in Fashion Web App
+
+## Total Booked $ by Season
+
+Allows users to hover to see the Total Booked $ by Season or select a season to focus the dashboard on only the numbers for that season.
+
+![Image](../assets/img/sales-sales-scorecard-booked-by-season.gif)
+
+## Customer Grid
+
+![Image](../assets/img/sales-sales-scorecard-customer.png)
+
+The Customer Grid consists of the following: 
+
+* Customer
+* Booked $ = Shipped Dollars + Balance to Ship Dollars
+* Shipped $ = Sum of Shipped Dollars on Invoices where AR Type Code = 01 (Invoices)
+* Balance to Ship $ = Order Dollars – Shipped Dollars
+* Return $ = Sum of all Invoice Dollars where AR Type = 02 (Credit Note)
+* Forecast $ = The Forecast Dollars manually entered or uploaded to the Sales Forecast screen in Fashion Web App
+
+## Total Booked $ by Customer Type
+
+Allows users the ability to hover to see the Total Booked $ by Customer Type or select a Customer Type to focus the dashboard on only the numbers for that Customer Type.
+
+![Image](../assets/img/sales-sales-scorecard-booked-by-customer-type.gif)
+
+> **Note**: All dollar amounts are net, not gross.

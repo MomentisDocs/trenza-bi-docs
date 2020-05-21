@@ -1,4 +1,10 @@
+<!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD041 -->
+
+<head>
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+</head>
+
 ![Image](assets/img/trenza-signature-icon-blue-512px.png)
 
 ## Overview

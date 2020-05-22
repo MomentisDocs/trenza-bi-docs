@@ -6,7 +6,7 @@ Allows users the ability to analyze sales this year compared to last year by Sal
 
 ## Slicers
 
-![Image](../assets/img/sales-sales-analysis-slicers.png)
+![Image](../assets/img/sales-sales-analysis-slicers-264x232.png)
 
 The slicers consist of the following:
 
@@ -96,7 +96,7 @@ Allows users the ability to hover to see the Total Booked $ by Season this year 
 
 > **Note**: Calendar dates are used, not fiscal
 
-## Total Booked $ by Customer type TY vs. LY
+## Total Booked $ by Customer Type TY vs. LY
 
 Allows users the ability to hover to see the Total Booked $ by Customer Type this year or select a Customer Type to focus the dashboard on only the numbers for that Customer Type.
 

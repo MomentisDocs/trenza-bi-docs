@@ -23,7 +23,7 @@ Analyze sales and sales forecast data across periods with extended drill downs.
 
 ![Image](assets/img/sales-sales-scorecard.png)
 
-#### Sales Analysis
+#### [Sales Analysis](pages/sales-analysis.md)
 
 Analyze sales this year compared to last year with extended drill downs.
 

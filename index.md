@@ -29,7 +29,7 @@ Analyze sales this year compared to last year with extended drill downs.
 
 ![Image](assets/img/sales-sales-analysis.png)
 
-#### Product Scorecard
+#### [Product Scorecard](pages/sales-product.md)
 
 Analyze product sales data across periods with extended drill downs.
 

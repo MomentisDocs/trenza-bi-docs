@@ -3,6 +3,8 @@ title: trenza.bi
 description: Business Intelligence by Momentis
 logo: /assets/img/trenza-signature-icon-blue.png
 show_downloads: false
+toc: true
+layout: home
 markdown: kramdown
 github:
   is_project_page: false

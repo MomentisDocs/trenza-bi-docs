@@ -1,13 +1,15 @@
+<!-- markdownlint-disable MD022 -->
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD041 -->
 
 <img src="assets/img/trenza-signature-icon-blue-1024px.png" width="512" height="114" />
 
 ## Overview
+{:.no_toc}
 
 **trenza.bi** is a complete set of robust, ERP dashboards that present information in easy-to-digest nuggets to monitor your information anywhere and anytime. The information presented covers all of the important parts of your business from high-level Executive dashboards to lower-level Sales, Inventory, and Product scorecards. Microsoft Power BI delivers the stunning front-end visuals to bring all of your relevant information to the surface allowing you to make better decisions and become more agile to changing market conditions. And, one of the most powerful features of **trenza.bi** is the natural language query that allows you to ask questions about the data and get instant results.
 
-**trenza.bi** includes the following dashboards and features.  
+**trenza.bi** includes the following:  
 
 * TOC
 {:toc}

@@ -37,7 +37,7 @@ Analyze product sales data across periods with extended drill downs.
 
 ### Inventory
 
-#### [Inventory Management](pages/inventory-inventory-management.md)
+#### [Inventory Management](pages/inventory-management.md)
 
 Analyze Inventory position using different inventory calculations and filter by Division, Brand, Garment Type, Season, Warehouse.
 

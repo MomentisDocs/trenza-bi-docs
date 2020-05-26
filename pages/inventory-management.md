@@ -8,7 +8,7 @@ Allows users the ability to analyze Inventory position by inventory category, di
 
 ## Slicers
 
-![Image](../assets/img/inventory-inventory-management-total-company.png)
+<img src="../assets/img/inventory-inventory-management-total-company.png" width="500" height="309" />
 
 * The Total Company Bar chart specifies which inventory calculation is displayed in the rest of the visuals. Users are able to filter the remaining visuals by the following inventory calculations:
   * Left to Sell = On Hand - Sales Orders + Purchase Orders

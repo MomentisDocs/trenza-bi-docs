@@ -9,6 +9,9 @@
 
 **trenza.bi** includes the following dashboards and features.  
 
+* TOC
+{:toc}
+
 ### [Executive](pages/executive.md)
 
 Provides a holistic view of the business.

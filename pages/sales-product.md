@@ -40,7 +40,7 @@ Shows the Total Dollars and Units.
   * Dollars = Order Dollars – Shipped Dollars
   * Units = Order Units – Shipped Units
   * Balance To Ship is based on the order creation date
-* Returned 
+* Returned
   * Dollars = Sum of all Invoice Dollars where AR Type = 02 (Credit Note)
   * Units = Sum of all Invoice Units where AR Type = 02 (Credit Note)
 

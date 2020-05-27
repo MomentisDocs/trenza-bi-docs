@@ -50,7 +50,7 @@ Analyze Inventory position using different inventory calculations and filter by 
 
 #### [Inventory On Hand](pages/inventory-on-hand.md)
 
-Analyze the aging of the on hand inventory using several filters
+Analyze the aging of the on hand inventory using several filters.
 
 ![Image](assets/img/inventory-inventory-on-hand.png)
 

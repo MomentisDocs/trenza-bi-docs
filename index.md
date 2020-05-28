@@ -60,7 +60,7 @@ Analyze the left to sell inventory using several filters.
 
 ![Image](assets/img/inventory-inventory-left-to-sell.png)
 
-### Accounts Receivable
+### [Accounts Receivable](pages/accounts-receivable.md)
 
 Analyze the aging of accounts receivable by customer type.
 

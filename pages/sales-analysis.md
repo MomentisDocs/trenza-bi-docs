@@ -37,7 +37,7 @@ The slicers consist of the following:
 * Returned
   * Dollars = Sum of all Invoice Dollars where AR Type = 02 (Credit Note)
   * Units = Sum of all Invoice Units where AR Type = 02 (Credit Note)
-* LY Returned 
+* LY Returned
   * Dollars = Sum of all Invoice Dollars where AR Type = 02 (Credit Note) for the same period last year
   * Units = Sum of all Invoice Units where AR Type = 02 (Credit Note) for the same period last year
   * Returns is the net total of Credit Notes
@@ -103,5 +103,4 @@ Allows users the ability to hover to see the Total Booked $ by Customer Type thi
 ![Image](../assets/img/sales-sales-analysis-booked-by-customer-type.gif)
 
 > **Note**: Calendar dates are used, not fiscal
-
 > **Note**: All dollar amounts are net, not gross

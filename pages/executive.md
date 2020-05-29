@@ -1,3 +1,5 @@
+<!-- markdownlint-disable MD033 -->
+
 # Executive
 
 The Executive dashboard provides a wholistic view of the business.
@@ -54,3 +56,58 @@ Allows user to compare last year's sales with this year's sales by month by hove
  or clicking on a point on the chart to focus the dashboard to that month,
 
 ![Image](../assets/img/executive-sales-ly-to-ty-month-selected-1554x516.gif)
+
+## Top Customers
+
+Displays the customers that have the highest booked amount. Users can hover over a bar to show the booked amount or click on a bar to focus the visuals to that customer.
+
+<img src="../assets/img/executive-top-customers.png" width="500" height="325" />
+
+* Booked: Shipped Dollars + Balance to Ship Dollars
+
+## Top Salespeople
+
+Displays the salespeople that have made the most sales. Users can hover over a bar to show the booked amount or click on a bar to focus the visuals to that salesperson.
+
+<img src="../assets/img/executive-top-salespeople.png" width="500" height="303" />
+
+* Booked: Shipped Dollars + Balance to Ship Dollars
+
+## Top Shipped Matrices
+
+Displays the style matrices that have been shipped the most. Users can hover over a bar to show the shipped amount, shipped quantity, booked amount, booked quantity, returned amount, and returned quantity, or click on a bar to focus the visuals to that style.
+
+<img src="../assets/img/executive-top-shipped-matrices.png" width="800" height="317" />
+
+* Booked
+  * Dollars = Shipped Dollars + Balance to Ship Dollars
+  * Units = Shipped Units + Balance to Ship Units
+* Shipped
+  * Dollars = Sum of Shipped Dollars on Invoices where AR Type Code = 01 (Invoices)
+  * Units = Sum of Shipped Units on Invoices where AR Type Code = 01 (Invoices)
+* Returned
+  * Dollars = Sum of all Invoice Dollars where AR Type = 02 (Credit Note)
+  * Units = Sum of all Invoice Units where AR Type = 02 (Credit Note)
+
+> **Note**: GLs are not included in the Return calculation
+
+## Top Shipped Styles
+
+Displays the style/colors that have been shipped the most. Users can hover over a bar to show the shipped amount, shipped quantity, booked amount, booked quantity, returned amount, and returned quantity, or click on a bar to focus the visuals to that style.
+
+<img src="../assets/img/executive-top-shipped-styles.png" width="800" height="313" />
+
+* Booked
+  * Dollars = Shipped Dollars + Balance to Ship Dollars
+  * Units = Shipped Units + Balance to Ship Units
+* Shipped
+  * Dollars = Sum of Shipped Dollars on Invoices where AR Type Code = 01 (Invoices)
+  * Units = Sum of Shipped Units on Invoices where AR Type Code = 01 (Invoices)
+* Returned 
+  * Dollars = Sum of all Invoice Dollars where AR Type = 02 (Credit Note)
+  * Units = Sum of all Invoice Units where AR Type = 02 (Credit Note)
+
+> **Notes**:
+>
+> * All dollar amounts are net, not gross.
+> * GLs are not included in the Return calculation.

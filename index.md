@@ -72,7 +72,7 @@ Analyze how actual shipping is trending against forecasted shipping for a given 
 
 ![Image](assets/img/shipping-projection.png)
 
-### Q&A
+### [Q&A](pages/qna.md)
 
 Allows users the ability to enter queries in intuitive natural language and render the information in graphs and charts.
 

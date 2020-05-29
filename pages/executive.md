@@ -103,7 +103,7 @@ Displays the style/colors that have been shipped the most. Users can hover over 
 * Shipped
   * Dollars = Sum of Shipped Dollars on Invoices where AR Type Code = 01 (Invoices)
   * Units = Sum of Shipped Units on Invoices where AR Type Code = 01 (Invoices)
-* Returned 
+* Returned
   * Dollars = Sum of all Invoice Dollars where AR Type = 02 (Credit Note)
   * Units = Sum of all Invoice Units where AR Type = 02 (Credit Note)
 

@@ -67,4 +67,4 @@ Hovering over a bar will the Actual $, Forecast $ and % to Forecast for that Sea
 > **Notes**:
 >
 > * The forecast date is based on the start delivery date.
-> * All dollar ammounts are net, not gross.
+> * All dollar amounts are net, not gross.

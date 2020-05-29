@@ -66,7 +66,7 @@ Analyze the aging of accounts receivable by customer type.
 
 ![Image](assets/img/accounts-receivable.png)
 
-### Shipping Projection
+### [Shipping Projection](pages/shipping-projection.md)
 
 Analyze how actual shipping is trending against forecasted shipping for a given time.
 

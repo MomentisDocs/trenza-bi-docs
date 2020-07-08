@@ -78,6 +78,8 @@ Allows users the ability to enter queries in intuitive natural language and rend
 
 ![Image](assets/img/qna-2-1588x882px.gif)
 
+### [Using Excel to Connect to Analytics Models](/pages/excel-analytics-models.md)
+
 ### [Security](pages/security.md)
 
 ### [Version History](pages/version-history.md)

@@ -24,7 +24,7 @@ Your browser will download an "odc" file.
 
 The ODC file extension is an Office Data Connection File which was developed by Microsoft. The file format is a connection information file that contains properties to connect to and retrieve data from an external data source.
 
-Open Excel, create a new blank workbook, and click Data | Existing Connections,
+Open Excel, create a new blank workbook, click "Data", and click "Existing Connections",
 
 <img src="../assets/img/excel-analytics-models-excel-existing-connections.png" width="600" height="547" />
 
